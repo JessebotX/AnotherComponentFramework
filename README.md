@@ -1,2 +1,2 @@
-# SimpleFramework
-A simple multi-page app javascript framework
+# Another Component Framework
+A simple component javascript framework with JSX support
