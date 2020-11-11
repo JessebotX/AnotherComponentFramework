@@ -1,2 +1,2 @@
 # Another Component Framework
-A simple component javascript framework with JSX support
+An extremely simple javascript framework for creating blazingly fast web components with JSX support.
