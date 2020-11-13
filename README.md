@@ -1,8 +1,12 @@
 # Another Component Framework <!-- omit in toc -->
 A low level javascript framework for creating reusable web components
 
+Super Lightweight (< 1kb compressed)
 # Contents <!-- omit in toc -->
 - [Usage](#usage)
+  - [CDN](#cdn)
+  - [NPM](#npm)
+  - [Documentation](#documentation)
   - [Example](#example)
       - [Without creating a class](#without-creating-a-class)
       - [Creating a class](#creating-a-class)
@@ -11,6 +15,15 @@ A low level javascript framework for creating reusable web components
 - [See Also](#see-also)
 
 # Usage
+## CDN 
+You can use [unpkg](https://unpkg.com/)
+
+## NPM
+```bash
+npm install another-component-framework
+```
+
+## Documentation
 See documentation at [jessebotx.github.io/anothercomponentframework]
 
 ## Example
