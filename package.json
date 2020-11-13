@@ -1,0 +1,27 @@
+{
+  "name": "another-component-framework",
+  "version": "1.0.0",
+  "description": "A low level javascript framework for creating reusable web components",
+  "main": "src/index.js",
+  "scripts": {
+    "generatedocs": "jsdoc src/index.js --destination docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessebotX/AnotherComponentFramework.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "framework"
+  ],
+  "author": "Jessebot",
+  "license": "0BSD",
+  "bugs": {
+    "url": "https://github.com/JessebotX/AnotherComponentFramework/issues"
+  },
+  "homepage": "https://github.com/JessebotX/AnotherComponentFramework#readme",
+  "devDependencies": {
+    "jsdoc": "^3.6.6"
+  }
+}
