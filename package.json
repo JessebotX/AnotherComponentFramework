@@ -1,6 +1,6 @@
 {
   "name": "another-component-framework",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A low level javascript framework for creating reusable web components",
   "main": "src/index.js",
   "scripts": {
