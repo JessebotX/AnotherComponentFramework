@@ -24,7 +24,7 @@ npm install another-component-framework
 ```
 
 ## Documentation
-See documentation at [jessebotx.github.io/anothercomponentframework]
+See documentation at [jessebotx.github.io/anothercomponentframework](https://jessebotx.github.io/anothercomponentframework)
 
 ## Example
 #### Without creating a class
