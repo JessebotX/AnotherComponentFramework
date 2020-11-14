@@ -13,7 +13,7 @@ class Component {
         this.selector = selector;
         this.html = html;
 
-        build();
+        this.build();
     }
 
     /**

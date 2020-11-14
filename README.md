@@ -84,6 +84,9 @@ new ElementComponent(); // create component here
 ```
 
 # Changelog
+#### v1.0.3
+- Fixed bug in code
+
 #### v1.0.2
 - TypeScript support
 
