@@ -11,6 +11,8 @@ Super Lightweight (< 1kb compressed)
       - [Without creating a class](#without-creating-a-class)
       - [Creating a class](#creating-a-class)
       - [Your HTML file(s)](#your-html-files)
+- [Changelog](#changelog)
+      - [v1.0.2](#v102)
 - [License](#license)
 - [See Also](#see-also)
 
@@ -80,6 +82,10 @@ new ElementComponent(); // create component here
 </body>
 </html>
 ```
+
+# Changelog
+#### v1.0.2
+- TypeScript support
 
 # License
 0BSD License
